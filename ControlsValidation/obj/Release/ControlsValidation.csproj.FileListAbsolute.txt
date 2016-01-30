@@ -1,6 +1,0 @@
-C:\Users\Draxler\documents\visual studio 2012\Projects\ControlValidation\ControlsValidation\bin\Release\ControlsValidation.dll
-C:\Users\Draxler\documents\visual studio 2012\Projects\ControlValidation\ControlsValidation\bin\Release\ControlsValidation.pdb
-C:\Users\Draxler\documents\visual studio 2012\Projects\ControlValidation\ControlsValidation\obj\Release\ControlsValidation.dll
-C:\Users\Draxler\documents\visual studio 2012\Projects\ControlValidation\ControlsValidation\obj\Release\ControlsValidation.pdb
-C:\Users\Draxler\documents\visual studio 2012\Projects\ControlValidation\ControlsValidation\bin\Release\ControlsValidation.XML
-C:\Users\Draxler\documents\visual studio 2012\Projects\ControlValidation\ControlsValidation\obj\Release\ControlsValidation.csprojResolveAssemblyReference.cache

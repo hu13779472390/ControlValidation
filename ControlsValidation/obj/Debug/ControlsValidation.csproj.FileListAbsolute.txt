@@ -1,4 +1,0 @@
-c:\users\draxler\documents\visual studio 2012\Projects\ControlValidation\ControlsValidation\bin\Debug\ControlsValidation.dll
-c:\users\draxler\documents\visual studio 2012\Projects\ControlValidation\ControlsValidation\bin\Debug\ControlsValidation.pdb
-c:\users\draxler\documents\visual studio 2012\Projects\ControlValidation\ControlsValidation\obj\Debug\ControlsValidation.dll
-c:\users\draxler\documents\visual studio 2012\Projects\ControlValidation\ControlsValidation\obj\Debug\ControlsValidation.pdb
